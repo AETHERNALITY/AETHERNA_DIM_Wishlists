@@ -8,13 +8,7 @@ description: A collection of weapon rolls that I will be chasing for this season
 // Volatile Launch, Disorienting Grenades, (Rimestealer, Slideways), Chill Clip
 //notes: tags:god-pve
 dimwishlist:item=2599338624&perks=1478423395,3032599245,1955165503,2978966579
-dimwishlist:item=2599338624&perks=1478423395,3032599245,1955165503,344235611
 dimwishlist:item=2599338624&perks=1478423395,3032599245,2039302152,2978966579
-dimwishlist:item=2599338624&perks=1478423395,3032599245,2039302152,344235611
-dimwishlist:item=2599338624&perks=1478423395,3032599245,2617553311,2978966579
-dimwishlist:item=2599338624&perks=1478423395,3032599245,2617553311,344235611
-dimwishlist:item=2599338624&perks=1478423395,3032599245,2396422520,2978966579
-dimwishlist:item=2599338624&perks=1478423395,3032599245,2396422520,344235611
 ## Bitter/sweet
 //notes: PvE Focused Roll. Use Bait and Switch to buff damage and Envious Arsenal to ensure maximum uptime during DPS. Handling Masterwork Ideal.
 dimwishlist:item=2599338625&perks=3525010810,3301904089,3987942396,3078487919
