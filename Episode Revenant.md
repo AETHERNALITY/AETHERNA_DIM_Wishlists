@@ -5,6 +5,7 @@ description: A collection of weapon rolls that I will be chasing for this season
 ## Insurmountable
 ## Noxious Vetiver
 ## Liturgy
+// Volatile Launch, Disorienting Grenades, (Rimestealer, Slideways), Chill Clip
 //notes: tags:god-pve
 dimwishlist:item=2599338624&perks=1478423395,3032599245,1955165503,2978966579
 dimwishlist:item=2599338624&perks=1478423395,3032599245,1955165503,344235611
