@@ -19,7 +19,7 @@ dimwishlist:item=2823644677&perks=3250034553,3142289711,2579169598,555281244
 dimwishlist:item=2823644677&perks=3250034553,3142289711,3619207468,555281244
 
 //notes: PvE Focused Roll. Cycle between Rimestealer and Headstone to generate a ton of stasis crystals. Use Origin trait to reload quickly. Range Masterwork Ideal.
-dimwishlist:item=2823644677&perks=3250034553,2420895100,1955165503,12440833
+dimwishlist:item=2823644677&perks=3250034553,2420895100,1955165503,124408337
 ## Scavenger's Fate
 ## Red Tape
 ## Sovereignty
