@@ -17,7 +17,6 @@ dimwishlist:item=2599338625&perks=3525010810,3301904089,3987942396,3078487919
 //notes: PvP Focused Roll. Get damage buff rolling with Precision instrument, and buff other stats with another perk. Range Masterwork Ideal.
 dimwishlist:item=2823644677&perks=3250034553,3142289711,2579169598,555281244
 dimwishlist:item=2823644677&perks=3250034553,3142289711,3619207468,555281244
-
 //notes: PvE Focused Roll. Cycle between Rimestealer and Headstone to generate a ton of stasis crystals. Use Origin trait to reload quickly. Range Masterwork Ideal.
 dimwishlist:item=2823644677&perks=3250034553,2420895100,1955165503,124408337
 ## Scavenger's Fate
@@ -35,7 +34,6 @@ dimwishlist:item=3830941962&perks=1482024992,2420895100,684456054,2173046394
 //notes: tags:god-pve
 dimwishlist:item=3009199534&perks=3798852852,3796465595,1134488199,1439600632
 dimwishlist:item=303107619&perks=3798852852,3796465595,1134488199,1439600632
-
 //notes: tags:god-pve
 dimwishlist:item=3009199534&perks=3798852852,3796465595,3987942396,3078487919
 dimwishlist:item=303107619&perks=3798852852,3796465595,3987942396,3078487919
@@ -49,12 +47,10 @@ dimwishlist:item=2039776723&perks=3798852852,3301904089,3987942396,3078487919
 ## Bygones
 //notes: tags:god-pve
 dimwishlist:item=2199554524&perks=1482024992,1885400500,3700496672,3891536761
-
 //notes: tags:god-pvp
 dimwishlist:item=2199554524&perks=1482024992,1561002382,1645158859,1194056669
 ## Rake Angle
 ## Plug One.1
-
 # Reprised
 ## Chroma Rush
 //notes: tags:god-pve
@@ -77,13 +73,11 @@ dimwishlist:item=2761869150&perks=3798852852,3032599245,3161816588,1546637391
 //notes: PvE Focused Roll. Uses the interaction between Attrition Orbs and Area Denial Frames to generate a large quantity of Orbs of Light. Perks in the third column can use Under-Over for better major killing capabilities, or Demolitionist for a significant grenade regen boost. Reload Masterwork Ideal.
 dimwishlist:item=1762785663&perks=3525010810,2822142346,1870851715,243981275
 dimwishlist:item=1762785663&perks=3525010810,2822142346,3523296417,243981275
-
 //notes: PvE Focused Roll. Pure ad-clear roll with some basic Void synergy. Blast Radius Masterwork Ideal.
 dimwishlist:item=1762785663&perks=3525010810,2822142346,776531651,2048641572
 ## VS-Gravitic Arrest
 //notes: tags:god-pve
 dimwishlist:item=93061497&perks=3250034553,1483536627,3523296417,2396489472
-
 //notes: tags:god-pvp
 dimwishlist:item=93061497&perks=1482024992,3868766766,1645158859,1194056669
 ## VS-Chill Inhibitor
