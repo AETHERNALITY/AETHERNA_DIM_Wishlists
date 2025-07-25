@@ -2,6 +2,7 @@ title:Edge of Fate
 
 // Mint Retrograde - PvE ()
 dimwishlist:item=42435996&perks=831391274,2396489472
+dimwishlist:item=42435996&perks=3987942396,3078487919
 
 
 // Qua Nilus II - PvE ()
