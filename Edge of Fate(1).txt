@@ -99,6 +99,7 @@ dimwishlist:item=3489054606&perks=3425386926,557221067
 
 // Phoneutria Fera - PvE ()
 dimwishlist:item=3496887154&perks=4190679284,4082225868
+dimwishlist:item=3496887154&perks=3161816588,4293542123
 
 
 // Ribbontail - PvE ()
